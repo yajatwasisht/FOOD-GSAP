@@ -19,7 +19,7 @@ A dynamic hotel website built using **HTML**, **CSS**, **JavaScript**, and **GSA
 
 ## Live Demo
 
-You can view the live website here: [FOOD-GSAP Live Demo](https://yourusername.github.io/FOOD-GSAP)
+You can view the live website here: [FOOD-GSAP Live Demo](https://hotelgsap.netlify.app/)
 
 ## Video Demo
 
